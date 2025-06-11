@@ -55,3 +55,5 @@ If you are prepared to explore Archetyp Darknet Market, here are the links to ge
 ### Disclaimer
 
 This guide is intended solely for educational purposes. The information provided aims to increase awareness and understanding of the darknet. We neither endorse nor promote any illegal activities. Always comply with local laws and regulations when exploring the internet and remember your safety on the Archetyp darknet market.
+
+Update:  Wednesday 11 June 2025 link is live
