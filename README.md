@@ -60,4 +60,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  16.06.2025 05:28:21
+
+
+Update: Corrected broken profiling tool references
