@@ -62,4 +62,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: Corrected broken profiling tool references
+
+
+Update: Settings links
