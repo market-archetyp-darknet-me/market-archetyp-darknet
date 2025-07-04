@@ -70,4 +70,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  26.06.2025 07:39:50
+
+
+Update: Fixed broken link, now accessible
