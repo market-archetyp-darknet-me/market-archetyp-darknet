@@ -80,4 +80,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: link is back online and live
+
+
+Update:  24.07.2025 11:57 url is now operational and accessible
